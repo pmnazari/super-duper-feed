@@ -1,0 +1,12 @@
+{
+    "applicationId": "Twitter",
+    "parents": [
+        [
+            "pmnazari/super-feed"
+        ],
+        [
+            "pmnazari/test-feed4"
+        ]
+    ],
+    "acceptByDefault": true
+}
