@@ -8,5 +8,5 @@
             "pmnazari/test-feed4"
         ]
     ],
-    "acceptByDefault": true
+    "acceptByDefault": false
 }
